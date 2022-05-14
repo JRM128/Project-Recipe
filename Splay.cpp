@@ -1,4 +1,5 @@
 #include "Splay.h"
+#Written by Jacob
 
 //Insertion Function (Time Complexity: Worst = O(n) / Average = O(log(n))
 Node* Splay::insert(Node* root, vector<string> values) {//New node and its parent
