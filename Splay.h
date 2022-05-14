@@ -6,6 +6,7 @@
 #include <vector>
 #include <time.h>
 using namespace std;
+#Written by Jacob
 
 //Node class
 struct Node {
